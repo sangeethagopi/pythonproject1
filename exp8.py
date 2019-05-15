@@ -1,5 +1,5 @@
-limit=int(input())
+a=int(input())
 sum=0
-for counter in range(1,limit+1):
-    sum+=counter
+for b in range(1,a+1):
+    sum+=b
 print(sum)
