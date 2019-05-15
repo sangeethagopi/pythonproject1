@@ -1,6 +1,6 @@
-string=(input())
+s=int(input())
 N=int(input())
-count = 0
-while (count < N):     
-    count = count + 1
-    print(string) 
+i=0
+while (i <= N):     
+    s = s + 1
+    print(s) 
